@@ -19,7 +19,7 @@
 
 
 
-## ⚙️ How It Works
+##  How It Works
 
 ```
 User types a task and submits
@@ -36,7 +36,7 @@ On page reload → tasks are loaded back from localStorage
 ```
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 No installs, no setup, no terminal commands needed.
 
@@ -57,7 +57,7 @@ Or simply double-click `index.html` — it opens directly in any browser and is 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - **DOM Manipulation** — dynamically creating, updating, and removing elements with JavaScript
 - **Event Handling** — responding to clicks, keypresses, and form submissions
@@ -68,7 +68,7 @@ Or simply double-click `index.html` — it opens directly in any browser and is 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Suggestions and improvements are welcome!
 
@@ -85,7 +85,7 @@ Suggestions and improvements are welcome!
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **khadijah40** — [github.com/khadijah40](https://github.com/khadijah40)
 
@@ -93,6 +93,6 @@ Suggestions and improvements are welcome!
 
 <div align="center">
 
-⭐ If this project helped you learn or build something, consider leaving a star!
+If this project helped you learn or build something, consider leaving a star!
 
 </div>

@@ -40,25 +40,6 @@ User clicks delete → removes task from DOM and localStorage
            ↓
 On page reload → tasks are loaded back from localStorage
 ```
-
----
-
-## 🗂️ Project Structure
-
-```
-todoapp/
-│
-├── index.html        # App structure and layout markup
-├── style.css         # All visual styling, layout, and animations
-├── app.js            # Core JavaScript — task logic, DOM manipulation, localStorage
-│
-├── icon.png          # App icon / favicon
-├── checked.png       # Custom icon for completed tasks
-├── unchecked.png     # Custom icon for pending tasks
-│
-└── README.md
-```
-
 ---
 
 ## 🚀 Getting Started

@@ -17,13 +17,7 @@
 
 ---
 
-## 📖 About
 
-**Todo App** is a browser-based task management application built using only vanilla HTML, CSS, and JavaScript — no React, no libraries, no build tools. It focuses on core JavaScript DOM manipulation and event handling to deliver a clean, fully working experience.
-
-The project uses custom checkbox icons (`checked.png` and `unchecked.png`) to give the task list a polished, branded feel and demonstrates how much can be achieved with just the fundamentals.
-
----
 
 ## ⚙️ How It Works
 

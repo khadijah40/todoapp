@@ -25,20 +25,6 @@ The project uses custom checkbox icons (`checked.png` and `unchecked.png`) to gi
 
 ---
 
-## ✨ Features
-
-| Feature | Description |
-|---|---|
-| ➕ Add Tasks | Type a task and hit enter or click the button to add it to the list |
-| ✅ Mark Complete | Click a task to toggle it between complete and incomplete |
-| 🗑️ Delete Tasks | Remove individual tasks from the list with a single click |
-| 🖼️ Custom Icons | Custom checked and unchecked icons for a polished UI |
-| 💾 Persistent State | Tasks remain saved even after refreshing the page (localStorage) |
-| 📱 Responsive Design | Works cleanly on both desktop and mobile screens |
-| ⚡ Zero Dependencies | Pure vanilla JavaScript — no frameworks or libraries needed |
-
----
-
 ## ⚙️ How It Works
 
 ```

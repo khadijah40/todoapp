@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-# ✅ Todo App
+# Todo App
 
 ### A clean, interactive task manager built with vanilla HTML, CSS & JavaScript
 
@@ -14,19 +14,6 @@
 > A lightweight, fully functional to-do list application built without any libraries or frameworks. Add tasks, mark them complete, and delete them — all with a smooth, responsive interface.
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [About](#-about)
-- [Features](#-features)
-- [How It Works](#️-how-it-works)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [What I Learned](#-what-i-learned)
-- [Contributing](#-contributing)
-- [Author](#-author)
 
 ---
 
